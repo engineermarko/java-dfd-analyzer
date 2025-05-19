@@ -7,9 +7,9 @@
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/model/Process.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/Main.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/model/AnalysisResult.java
+/home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/output/DFDGenerator.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/model/DataStructure.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/model/DataField.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/core/ProjectAnalyzer.java
-/home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/output/DfdGenerator.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/model/DataFlow.java
 /home/lmcarmm/git/EVCN_dfd/ver300/dfd-analyzer-setup/java-dfd-analyzer/src/main/java/com/threatmodel/analyzer/utils/AnnotationExtractor.java

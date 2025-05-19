@@ -1,0 +1,16 @@
+com/threatmodel/analyzer/output/OutputGenerator.class
+com/threatmodel/analyzer/model/DataField.class
+com/threatmodel/analyzer/model/AnalysisResult.class
+com/threatmodel/analyzer/model/Process.class
+com/threatmodel/analyzer/utils/DataFlowDetector.class
+com/threatmodel/analyzer/model/ExternalEntity.class
+com/threatmodel/analyzer/utils/CommentExtractor.class
+com/threatmodel/analyzer/model/DataFlow$DataFlowType.class
+com/threatmodel/analyzer/Main.class
+com/threatmodel/analyzer/utils/ExternalEntityDetector.class
+com/threatmodel/analyzer/model/ExternalEntity$ExternalEntityType.class
+com/threatmodel/analyzer/model/DataStructure.class
+com/threatmodel/analyzer/model/DataStructure$DataStructureType.class
+com/threatmodel/analyzer/model/DataStore.class
+com/threatmodel/analyzer/model/DataStore$DataStoreType.class
+com/threatmodel/analyzer/model/DataFlow.class
