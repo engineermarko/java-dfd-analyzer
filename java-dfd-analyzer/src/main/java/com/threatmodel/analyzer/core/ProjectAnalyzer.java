@@ -289,8 +289,6 @@ public class ProjectAnalyzer {
             dataStructure.setType(DataStructure.DataStructureType.DTO);
         } else if (name.endsWith("Entity") || cls.getAnnotationByName("Entity").isPresent()) {
             dataStructure.setType(DataStructure.DataStructureType.ENTITY);
-        } else if (cls.isEnum()) {
-            dataStructure.setType(DataStructure.DataStructureType.ENUM);
         } else {
             dataStructure.setType(DataStructure.DataStructureType.CLASS);
         }
